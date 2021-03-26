@@ -1,6 +1,9 @@
 // https://www.turnerstories.com/blog/2019/9/12/a-great-framework-for-plotting-a-fantasy-novel
 export const turner_fantasy_novel_framework = () => {
     step_1_introduce_status_quo: () => {
+        // MC and MTee are on adventure to get seeds of a special kind of ivy to hide the entrance to their waterfall lair
+        // MTee forgot seed pouch, MC makes him get it
+        // along the way they run across two girls that live in the area and decide spy on them, get caught, MG1(kelli b) gives them a hard time for her own amusement 
         introuduce_world: () => {}
         introuduce_setting: () => {}
         introduce_theme: () => {}
@@ -8,6 +11,9 @@ export const turner_fantasy_novel_framework = () => {
     }
 
     step_2_inciting_incident: () => {
+        // MC and MTee are reclining on metallic hammocs over water and when they see geese flying overhead signalling the end of summer
+        // MTee is excited to go south and tell his first story
+        // MC is worried becuase he feels he has not lived a story worth telling over the summer
         attack: () => {}
         important_discovery: () => {}
         leaves_status_quo: () => {}
@@ -16,6 +22,11 @@ export const turner_fantasy_novel_framework = () => {
     }
 
     step_3_act_1_setting_and_predicament: () => {
+        // MC and MTee meet up with friends as they migrate south
+        // they show off for each other, many friends are with older MTors and have learned lots of cool new things, MC is grumpy about having to teach and not getting to learn, MTee is oblivious
+        // girls they got
+        // ANT(draco) shows up with ANTMTor(sanpe) and has learned many new things, is smug and flaunts new abilities over MC, ANTMTor is haughty and superior, encourages this
+        // ANT talks about story he will tell, flaunts mystic iot, MC is worried about story, needs to find a story to tell
         show_reader_new_world: () => {
             what_is_happening: () => {}
             how_is_main_character_invovled: () => {}
@@ -23,6 +34,10 @@ export const turner_fantasy_novel_framework = () => {
             introduce_antagonists: () => {}
             what_new_goals_does_character_have: () => {}
         }
+        // MC is young, heading opposite direction of mystic beasts, unprepared to try to find or fight them, wants story
+        // around the fire two older men talk of elusive and highly intelligent mystical beast that leaves a series of logic puzzles and riddles
+        // MC leaves party that night to go find the first clue they talked about, meets beast at clue, beast easly beats him, MC cuts off a signle claw
+        // MC wakes in the morning and rushes to catch up with others, determined to catch mystic beast, hides tiny amount of mystic iot
         goal_is_far_beyond_reach_of_character: () => {
             much_improvement_needed_to_achieve_goals: () => {
                 overcome_flaws: () => {}
@@ -30,6 +45,10 @@ export const turner_fantasy_novel_framework = () => {
                 items_to_get: () => {}
             }
         }
+        // they reach south and as they enter the CITADEL(make new name) they each touch the token giver which shoots their story position into the sky
+        // MC gets THE prime story spot, ANT is annoyed and jealous, ANTMtor points out that MC has no story and will only embarass himself
+        // they all go to see the classes that will be availiable that summer
+        // MC chooses the classes he will enter into and helps MTee choose his, convincing him that he should go with his passion rather than what is popular, brief flash of MC goodness
         main_character_is_put_in_central_position_of_the_story: () => {
             only_they_can_do_something: () => {}
             something_is_unique_about_them: () => {
@@ -42,6 +61,12 @@ export const turner_fantasy_novel_framework = () => {
         }
     }
 
+    // MC is constantly fiddling with mystic iot but hides it from everyone else, he has figured out several unique things to do with it, even in a small amount
+    // MC, ignoring his own advice, goes into 'cool' classes that he things will help him make a great story, MTee askes about it but is shut down, MC has some learning to do
+    // MTee, aided by MG1 convince him to at least try classes he is interested in
+    // MC goes to first day of claseses, gets berated by multiple profs for not learning anything over the summer
+    // RIXA is starting up and MG1 asks MC to be a part of her team, he reluctantly agrees
+    // after classes MC leaves CITADEL to search out mystic creatures and new iot, he has to have a good story
     step_4_act_1_lock_in_reader: () => {
         the_goal_propells_main_character: () => {}
         main_character_does_not_want_to_do_goal: () => {}
@@ -56,6 +81,8 @@ export const turner_fantasy_novel_framework = () => {
         }
     }
 
+    // MC is out on his own, he has finally cornered a minor mystic beast, he loses but cuts off it's tail gaining a small amount of a new type of mystic iot
+    // 
     step_5_act_2_throw_in_some_obstacles: () => {
         main_character_is_on_mission: () => {}
         get_to_know_companions: () => {}
@@ -139,7 +166,6 @@ export const turner_fantasy_novel_framework = () => {
         main_character_accepts_their_place_in_the_new_world: () => {}
         make_it_clear_to_reader_main_character_has_reached_external_goal: () => {}
         subplots_are_tied_up: () => {}
-        
     }
 
 }
