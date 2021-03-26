@@ -1,4 +1,6 @@
 // https://www.turnerstories.com/blog/2019/9/12/a-great-framework-for-plotting-a-fantasy-novel
+
+// MC is KYLE, a happy go lucky fun youth who tries to be good at everything and fails often, his flaws are in the open, he tries but he fails, he is lovable in defeat, when he is against someone its easy to join him
 export const turner_fantasy_novel_framework = () => {
     step_1_introduce_status_quo: () => {
         // MC and MTee are on adventure to get seeds of a special kind of ivy to hide the entrance to their waterfall lair
@@ -47,7 +49,7 @@ export const turner_fantasy_novel_framework = () => {
                 items_to_get: () => {}
             }
         }
-        // they reach south and as they enter the CITADEL(make new name) they each touch the token giver which shoots their story position into the sky
+        // they reach south and as they enter the CITADEL(make new name) they each touch the token giver which shoots their story position and duel positions into the sky, MC is very low ranked, he hasn't ever tried to be good at either
         // MC gets THE prime story spot, ANT is annoyed and jealous, ANTMtor points out that MC has no story and will only embarrass himself
         // they all go to see the classes that will be available that summer
         // MC chooses the classes he will enter into and helps MTee choose his, convincing him that he should go with his passion rather than what is popular, brief flash of MC goodness
@@ -114,12 +116,12 @@ export const turner_fantasy_novel_framework = () => {
         main_character_starts_to_believe_they_can_accomplish_ultimate_goal: () => {}
     }
 
-    // MC gets his fourth mystic, this time he finishes it and gets the entire thing, it's powers are minor, he realizes hed rather have a tiny amount of invisibility
-    // MC searches for  the trail of the original mystic, the invisibility mystic, he has no leads, he uses new powers to quickly go back to where he met it before
+    // MC fights his fourth mystic, he loses again, he lops off its huge horns and gets their iot
+    // MC searches for the trail of the original mystic, the invisibility mystic, he has no leads, he uses new powers to quickly go back to where he met it before
     // MC finds a cryptic clue that feels just for him and brings it back and goes back to classes
     // MC sees emergency flairs in the distance and flies to help, finds killed men and women, speared through with iot
     // MC flees back to CITADEL and reports deaths, CITADEL sends best warriors out, they find no bodies, they say MC has taken too much PSY
-    // it's ANT's story time and he kills it his slithery way, MC is appalled
+    // it's ANT's story time and he kills it his slithery way, MC is appalled at how gullable the crowd is
     step_7_act_2_subplots_and_more_action: () => {
         smooth_sailing: () => {}
         side_quests_surface: () => {}
@@ -131,9 +133,17 @@ export const turner_fantasy_novel_framework = () => {
         }
     }
 
-
+    // MC solves the first clue of the MYSTICinvisible and rushes to find it, instead he finds a second clue
+    // RIXA vs ANT, ANT and MC stalemate and MG1 wins again, MC is annoyed that he didn't win, MG1 points out that he would have lost a month ago
+    // MC's story date looms, he still has not killed a mystic
+    // MC is excelling in his classes but several things are looming in the background all at once, the MSYSTICinvisible, the STORY, beating ANT
+    // RICK is preoccupied, MC has no external help, friends are only interested in RIXA, no one cares to help with stories except annoying professor
+    // MC is annoyed and taking it out on his surroundings, he accidentally kills a tree with mystic tipped iot, thats when he realizes how the people were killed
+    // MC realizes how easy everything is with mystic tipped iot, a thin layer of invisibility, heat, freezing, darkness, light, etc works wonders for anything
+    // there is a big test the next day but MC figures out second clue and runs out of exam hall
+    // MC leaves during exam, RIXA teammate notices and messages other teammates and they rush to meet him as he goes to search for MYSTICinvisible
     step_8_act_2_the_turning_point: () => {
-        main_charcter_is_ready_to_take_on_main_obstacle: () => {}
+        main_character_is_ready_to_take_on_main_obstacle: () => {}
         minor_setback: () => {
             loses_to_an_antagonist: () => {}
             doubt_creeps_in: () => {}
@@ -149,6 +159,9 @@ export const turner_fantasy_novel_framework = () => {
         }
     }
 
+    
+    // MC's duel with ANT looms, his fights with teams, instructors, mystics, older friends, all have him beaten down, he is used to losing, he is used to growing as a result, this time he doesn't want to lose, his usual good humor is gone
+    // ANT tries to goad MC, he says the same things that have worked in the past, MC is reborn, MC is new, MC is strong now, they fight, MC surprises everyone but still loses to far superior foe
     step_9_act_3_tensions_twists_turns: () => {
         reader_is_at_edge_of_seat: () => {
             cant_put_book_down_must_know: () => {}
@@ -166,7 +179,13 @@ export const turner_fantasy_novel_framework = () => {
             main_character_changes_and_overcomes_their_own_demons_and_the_antagonist: () => {}
         }
     }
-
+    
+    // MC's story spot looms, he has nothing outside of RIXA and dueling, he has won nothing, he has done nothing right
+    // MC walks up to the stage, he looks around, he bows his head and sits, talking lowly, telling his story, the iot around him raised up
+    // MC tells a compelling story of defeat and growth. his four types of mystic iot fly above his head and form into several shapes (he hides the invisible iot as it's un-talked about)
+    // MC tells of losing, honorably to a superior opponent - ANT has tears in his eyes, he finally sees MC
+    // MC's iot all drop to the ground and he stands up, the CITADEL is silent, then there is thunderous applause
+    // RICK grabs a stunned MC off the stage
     step_10_act_3_the_climax: () => {
         the_battle_is_over_main_character_has_won: () => {}
         now_there_is_a_cost_to_pay_for_winning: () => {
@@ -186,4 +205,5 @@ export const turner_fantasy_novel_framework = () => {
         subplots_are_tied_up: () => {}
     }
 
+    // MC and a MTor are headed back north with the geese, MC is excited for the summer ahead
 }
