@@ -219,6 +219,7 @@ export const turner_fantasy_novel_framework = () => {
     // MC tells of losing, honorably to a superior opponent - ANT has tears in his eyes, he finally sees MC
     // MC's iot all drop to the ground and he stands up, the CITADEL is silent, then there is thunderous applause
     // RICK whisks a stunned MC off the stage and congratulates him
+    
     // CITADEL season is over and MC has a new mentor, an smart and simple guy, they head back north
     step_10_act_3_the_climax: () => {
         the_battle_is_over_main_character_has_won: () => {}
@@ -239,4 +240,13 @@ export const turner_fantasy_novel_framework = () => {
         subplots_are_tied_up: () => {}
     }
 
+}
+
+const scene = {
+    synopsis: `MC is attacked, jumps off cliff rather than lose`,
+    content: `
+        "I told you!", I shouted, "you won't change me". 
+        I stumbled back and, with tears in my eyes, I threw myself the cliff. I used my weightless iot to slow my fall right before plunging into the waters below.
+    `,
+    tags: ['emotional', 'character building', 'dialog', 'etc']
 }
