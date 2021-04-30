@@ -1,11 +1,18 @@
 // https://www.turnerstories.com/blog/2019/9/12/a-great-framework-for-plotting-a-fantasy-novel
 
-// MC is KYLE, a happy go lucky fun youth who tries to be good at everything and fails often, his flaws are in the open, he tries but he fails, he is lovable in defeat, when he is against someone its easy to join him
+// glossary
+// MC - young, impatient, arrogant, well meaning idealistic, lazy, funny, intense, insecure, flush with all the emotions of youth
+// MTee - easy going, curious, forgetful, easily sidetracked
+// MG1 - worldly, sarcastic, wise, longsuffering, warm
+// PSY - ?wtf was this, psychadelics?
+
+
+// MC is, a happy go lucky fun youth who tries to be good at everything and fails often, his flaws are in the open, he tries but he fails, he is lovable in defeat, when he is against someone its easy to join him
 export const turner_fantasy_novel_framework = () => {
     step_1_introduce_status_quo: () => {
         // MC and MTee are on adventure to get seeds of a special kind of ivy to hide the entrance to their waterfall lair
         // MTee forgot seed pouch, MC makes him get it, MC is a young and arrogant prodigy and doesn't tolerate stupidity
-        // along the way they run across two girls that live in the area and decide spy on them, get caught, MG1(kelli b) gives them a hard time for her own amusement, asks them if they want to join in on a PSY trip
+        // along the way they run across two girls that live in the area and decide spy on them, get caught, MG1(kelli b) gives them a hard time for her own amusement, asks them if they want to join in on a PSY trip, they are embarrassed and decline
         introduce_world: () => {}
         introduce_setting: () => {}
         introduce_theme: () => {}
@@ -16,7 +23,7 @@ export const turner_fantasy_novel_framework = () => {
         // MC and MTee are reclining on metallic hammocks over water and when they see geese flying overhead signalling the end of summer
         // MC is guiding MTee through his first PSY trip
         // MTee is excited to go south and tell his first story
-        // MC is worried because he feels he has not lived a story worth telling over the summer
+        // MC is worried/concerned because he feels he has not lived a story worth telling over the summer, he is does not count any of the mentoring experiences with MTee as worth telling
         attack: () => {}
         important_discovery: () => {}
         leaves_status_quo: () => {}
@@ -26,10 +33,10 @@ export const turner_fantasy_novel_framework = () => {
 
     step_3_act_1_setting_and_predicament: () => {
         // MC and MTee meet up with friends as they migrate south
-        // they show off for each other, many friends are with older MTors and have learned lots of cool new things, MC is grumpy about having to teach and not getting to learn, MTee is oblivious
+        // they show off for each other, some friends are with older MTors and have learned lots of cool new things, MC is grumpy about having to teach and not getting to learn any cool new things, MTee is oblivious
         // girls they spied on join crew and have fun at boys expense
         // ANT(draco) shows up with ANTMTor(Snape) and has learned many new things much to MC's dismay
-        // AN is smug and flaunts new abilities over MC, ANTMTor is haughty and superior, encourages this
+        // ANT is smug and flaunts new abilities over MC, ANTMTor is haughty and superior, encourages this
         // ANT talks about story he will tell, flaunts mystic iot, MC is worried about story, needs to find a story to tell
         show_reader_new_world: () => {
             what_is_happening: () => {}
@@ -39,9 +46,9 @@ export const turner_fantasy_novel_framework = () => {
             what_new_goals_does_character_have: () => {}
         }
         // MC is young, heading opposite direction of mystic beasts, unprepared to try to find or fight them, wants story
-        // around the fire two older men talk of elusive and highly intelligent mystical beast that leaves a series of logic puzzles and riddles
-        // MC leaves party that night to go find the first clue they talked about, meets beast at clue, beast easily beats him, MC cuts off a single claw
-        // MC wakes in the morning and rushes to catch up with others, determined to catch mystic beast, hides tiny amount of mystic iot, it is invisible iot, that can cover other iot
+        // around the fire two older men talk of elusive and highly intelligent mystical beast that they came across that leaves a series of logic puzzles and riddles, no one has been able to gain any of this beast's iot
+        // MC leaves party that night to go find the first clue they talked about, meets beast at clue, they engage in a battle of wits, and then a battle of strength when he gets frustrated, the beast is entertained and easily beats him, MC, manages to cut off a single large feather in the process before he passes out
+        // MC wakes in the morning and notices the feather, puts it in his pack and rushes to catch up with others, determined to catch mystic beast, hides tiny amount of mystic later when he experiments with it he finds out it is invisible iot, it that can cover other iot and make it invisible
         goal_is_far_beyond_reach_of_character: () => {
             much_improvement_needed_to_achieve_goals: () => {
                 overcome_flaws: () => {}
@@ -49,10 +56,10 @@ export const turner_fantasy_novel_framework = () => {
                 items_to_get: () => {}
             }
         }
-        // they reach south and as they enter the CITADEL(make new name) they each touch the token giver which shoots their story position and duel positions into the sky, MC is very low ranked, he hasn't ever tried to be good at either
-        // MC gets THE prime story spot, ANT is annoyed and jealous, ANTMtor points out that MC has no story and will only embarrass himself
+        // they reach south and as they enter the CITADEL(make new name) they each touch the token giver which shoots their story position and duel positions into the sky like fireworks, MC is very low ranked, he hasn't ever tried to be good at either
+        // MC gets THE prime story spot, ANT is annoyed and jealous, ANTMtor points out that MC has no story and will only embarrass himself, they snicker and walk off together
         // they all go to see the classes that will be available that summer
-        // MC chooses the classes he will enter into and helps MTee choose his, convincing him that he should go with his passion rather than what is popular, brief flash of MC goodness
+        // MC chooses the classes he will enter into and helps MTee choose his, convincing him that he should go with his passion rather than what is popular, brief flash of the good person that MC could become if he put aside his immaturity and insecurity
         main_character_is_put_in_central_position_of_the_story: () => {
             only_they_can_do_something: () => {}
             something_is_unique_about_them: () => {
@@ -65,12 +72,13 @@ export const turner_fantasy_novel_framework = () => {
         }
     }
 
-    // MC is constantly fiddling with mystic iot but hides it from everyone else, he has figured out several unique things to do with it, even in a small amount
-    // MC, who is a prodigy, ignoring his own advice, goes into 'cool' classes that he things will help him make a great story, MTee asks about it but is shut down, MC has some learning to do
-    // MTee, aided by MG1 convince him to at least try classes he is interested in
-    // MC goes to first day of classes, gets berated by multiple profs for not learning anything over the summer
-    // RIXA is starting up and MG1 asks MC to be a part of her team, he reluctantly agrees
-    // after classes MC leaves CITADEL to search out mystic creatures and new iot, he has to have a good story
+    // MC is constantly fiddling with mystic iot but hides it from everyone else, he has figured out several unique things to do with it, even in a small amount, he can stretch it very thin and almost make himself completely invisible from one side, he can make a shield with it and hide behind the shield, he wears it as a set of vambrace underneath his shirt that no one notices because his shirt covers it
+    // MC, who is prodigy level smart despite his hormones and insecurity tries to go into the easiest classes with the hottest girls, MTee asks him why he isn't doing classes for the things he talked about all summer, asks him why he isn't doing a battle class given how much fun MC had teaching him to duel all summer, executes a flawless iot spear thrust that splashes off MC's chest to emphasize his point
+    // MG1 is nearby and laughs, joining in to cajole MG to at least try some of the classes he is interested in even if they aren't seen as cool
+    // MC goes to first day of classes, gets berated or laughed at by multiple profs for not learning anything over the summer, exactly what he was worried about
+    // to top off a perfectly horrible day RIXA is starting up and MC notices that his usual team has accepted ANT who is pointing to him and sneering while the rest of them giggle, MG1 calls him over and asks MC if he wants to be a part of her team, he reluctantly agrees
+    // after classes MC decides to skip the stories and leave CITADEL to search out mystic creatures and new iot, he has to have a good story, he just has to
+    // MC wanders around all night and finds nothing, there are no traces of any mystics anywhere close to the CITADEL, he heads home dejectedly and falls into his bed exhausted
     step_4_act_1_lock_in_reader: () => {
         the_goal_propels_main_character: () => {}
         main_character_does_not_want_to_do_goal: () => {}
@@ -85,13 +93,15 @@ export const turner_fantasy_novel_framework = () => {
         }
     }
 
-    // MC is out on his own, he has finally cornered a minor mystic beast, he loses but cuts off it's tail gaining a small amount of a new type of mystic iot
-    // MC is getting into his classes, he hates several of the 'cool' ones but is good at them and pushes through
+    
+
+    // MC is getting into his classes, he hates several of the easy ones but is good at them and pushes through
     // ANT flaunts his progress and puts down MC in front of class MC doesn't even like, MC fights back
     // in an advanced logic class MC meets new mentor, a teacher, theRICK, who hilariously and dispassionately destroys ANT on merit
-    // MC asks RICK how to catch a mystic, RICK laughs and says to let it go, no one catches mystics, MC points out RICK's hidden mystic iot and his eyes widened in surprise, MC begs for MTorship
+    // MC stays after class and asks RICK how to catch a mystic, RICK laughs and says to let it go, no one catches mystics, MC points out RICK's hidden mystic iot and his eyes widened in surprise, MC begs for MTorship
     // RICK reluctantly agrees to teach MC 
-    // first RIXA match, MC gets destroyed spectacularly, MG1 is supportive and chill, wins it for the team
+    // first RIXA match, MC gets ahead of himself and dives headfirst into 5 enemies, gets destroyed spectacularly, MC takes a beating MG1 uses his distraction to win it for the team, is annoyed at him in victory
+    // MC
     step_5_act_2_throw_in_some_obstacles: () => {
         main_character_is_on_mission: () => {}
         get_to_know_companions: () => {}
@@ -103,10 +113,10 @@ export const turner_fantasy_novel_framework = () => {
         }
     }
 
-    // MC has found a mystic, RICK is coaching him, MC cuts off a whole limb but loses
-    // RICK is excited and pumped for MC, says its rare that any iot is gained at all, very very few actually manage to kill the monster and get all the iot
-    // at this point MC has small amounts of 3 types of mystic iot, he is starting to figure things out, starting to get things together
-    // at night in his hammock MC swirls a combination of all the regular types of iot with his three mystic iot and starts to see new uses for them all
+    // after weeks of losing sleep to his hunt, with the help of RICK, MC has found a mystic, MC finally catches up with the mystic and manages to cut off a whole foot, it screams and flees
+    // when MC brings back the iot RICK is excited and pumped for MC, says its rare that any iot is gained at all, very very few actually manage to kill the monster and get all the iot
+    // at this point MC has small amounts of 2 types of mystic iot, he is starting to figure things out, starting to get things together
+    // at night in his hammock MC swirls a combination of all the regular types of iot with his two mystic iot and starts to see new uses for them all
     step_6_act_2_rising_action: () => {
         main_character_has_some_mini_quests_under_their_belt: () => {
             starting_to_understand_world: () => {}
@@ -116,12 +126,12 @@ export const turner_fantasy_novel_framework = () => {
         main_character_starts_to_believe_they_can_accomplish_ultimate_goal: () => {}
     }
 
-    // MC fights his fourth mystic, he loses again, he lops off its huge horns and gets their iot
+    // MC fights his third mystic, he loses again, he lops off its huge horns and gets their iot
     // MC searches for the trail of the original mystic, the invisibility mystic, he has no leads, he uses new powers to quickly go back to where he met it before
     // MC finds a cryptic clue that feels just for him and brings it back and goes back to classes
     // MC sees emergency flairs in the distance and flies to help, finds killed men and women, speared through with iot
     // MC flees back to CITADEL and reports deaths, CITADEL sends best warriors out, they find no bodies, they say MC has taken too much PSY
-    // it's ANT's story time and he kills it his slithery way, MC is appalled at how gullable the crowd is
+    // it's ANT's story time and he kills it his slithery way, MC is appalled at how gullable the crowd is to fall for his act
     step_7_act_2_subplots_and_more_action: () => {
         smooth_sailing: () => {}
         side_quests_surface: () => {}
@@ -134,7 +144,7 @@ export const turner_fantasy_novel_framework = () => {
     }
 
     // MC solves the first clue of the MYSTICinvisible and rushes to find it, instead he finds a second clue
-    // RIXA vs ANT, ANT and MC stalemate and MG1 wins again, MC is annoyed that he didn't win, MG1 points out that he would have lost a month ago
+    // RIXA vs ANT and his old team, ANT and MC stalemate and MG1 wins again, MC is annoyed that he didn't win, MG1 points out that he would have lost a month ago
     // MC's story date looms, he still has not killed a mystic
     // MC is excelling in his classes but several things are looming in the background all at once, the MSYSTICinvisible, the STORY, beating ANT
     // RICK is preoccupied, MC has no external help, friends are only interested in RIXA, no one cares to help with stories except annoying professor
@@ -161,7 +171,7 @@ export const turner_fantasy_novel_framework = () => {
 
     
     // MC's duel with ANT looms, his fights with teams, instructors, mystics, older friends, all have him beaten down, he is used to losing, he is used to growing as a result, this time he doesn't want to lose, his usual good humor is gone
-    // ANT tries to goad MC, he says the same things that have worked in the past, MC is reborn, MC is new, MC is strong now, they fight, MC surprises everyone but still loses to far superior foe
+    // ANT tries to goad MC, he says the same things that have worked in the past, MC is reborn, MC is new, MC is strong now, they fight, MC surprises everyone but still loses to older, more superior foe
     step_9_act_3_tensions_twists_turns: () => {
         reader_is_at_edge_of_seat: () => {
             cant_put_book_down_must_know: () => {}
@@ -185,7 +195,8 @@ export const turner_fantasy_novel_framework = () => {
     // MC tells a compelling story of defeat and growth. his four types of mystic iot fly above his head and form into several shapes (he hides the invisible iot as it's un-talked about)
     // MC tells of losing, honorably to a superior opponent - ANT has tears in his eyes, he finally sees MC
     // MC's iot all drop to the ground and he stands up, the CITADEL is silent, then there is thunderous applause
-    // RICK grabs a stunned MC off the stage
+    // RICK whisks a stunned MC off the stage and congratulates him
+    // CITADEL season is over and MC has a new mentor, an smart and simple guy, they head back north
     step_10_act_3_the_climax: () => {
         the_battle_is_over_main_character_has_won: () => {}
         now_there_is_a_cost_to_pay_for_winning: () => {
@@ -205,5 +216,4 @@ export const turner_fantasy_novel_framework = () => {
         subplots_are_tied_up: () => {}
     }
 
-    // MC and a MTor are headed back north with the geese, MC is excited for the summer ahead
 }
